@@ -1,0 +1,12 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+header {
+background-image: url("../images/banner.jpg");
+background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: center;
+height: 468px;
+  color: white;
+  
+}
